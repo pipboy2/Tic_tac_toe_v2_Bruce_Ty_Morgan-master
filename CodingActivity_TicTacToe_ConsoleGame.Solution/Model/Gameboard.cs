@@ -264,7 +264,7 @@ namespace CodingActivity_TicTacToe_ConsoleGame
                     _positionState[posX, posY + 1] == playerPieceToCheck &&
                     _positionState[posX, posY + 2] == playerPieceToCheck);
             };
-            // column checker
+            // column checker // Changes!!!
             gameBoardMatch verticalPattern = (int posX, int posY) =>
             {
                 if ((posY < 0 || posY > 4) || (posX < 0 || posX > 1))

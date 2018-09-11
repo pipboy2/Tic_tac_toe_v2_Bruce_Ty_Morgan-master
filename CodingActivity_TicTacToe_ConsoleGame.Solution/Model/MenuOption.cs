@@ -12,7 +12,7 @@ namespace CodingActivity_TicTacToe_ConsoleGame
         PlayNewRound,
         ViewCurrentGameResults,
         ViewPastGameResultsScores,
-        SaveGameResults,
+        SaveGameResults, //Plz add rules
         Quit
     }
 }
