@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingActivity_TicTacToe_ConsoleGame
 {
-    public class GameController
+    public class GameController 
     {
 
-        // hello world
+        // Hey there
         #region FIELDS
         //
         // track game and round status
