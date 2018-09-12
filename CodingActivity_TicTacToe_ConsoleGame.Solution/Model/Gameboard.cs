@@ -13,7 +13,7 @@ namespace CodingActivity_TicTacToe_ConsoleGame
     {
         #region CLASSES
         /// <summary>
-        /// An exception that occurs when a position outside the <see cref="Gameboard"/> 
+        /// An exception that occurs when a position outside the <see cref="Gameboard Ty"/> 
         /// is used.
         /// </summary>
         public class GamePositionException : Exception
